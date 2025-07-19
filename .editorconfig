@@ -1,0 +1,13 @@
+# EditorConfig é ótimo para manter padrões de codificação consistentes
+# Saiba mais: https://EditorConfig.org
+
+# Define este como o arquivo EditorConfig principal
+root = true
+
+[*]
+indent_style = space           # Define o estilo de indentação como espaços
+indent_size = 2                # Define 2 espaços para indentação
+end_of_line = lf               # Define o estilo de terminação de linha como LF
+charset = utf-8                # Define o charset como UTF-8
+trim_trailing_whitespace = false # Não remove espaços em branco no final das linhas
+insert_final_newline = true    # Insere uma nova linha ao final do arquivo
